@@ -1,4 +1,4 @@
-public class ExonNames {
+public class nameEncoderDecoder {
     public boolean areNamesEqual(String name1, String name2) {
         return name1.equals(name2);
     }
