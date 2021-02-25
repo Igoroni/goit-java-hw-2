@@ -7,7 +7,7 @@ public class NameEncoderDecoder {
         .replace("o", "4")
         .replace("a", "5");
 
-        return "NOTFORYOU" + replacedName + "YESnoTFORYOU";
+        return "NOTFORYOU" + replacedName + "YESNOTFORYOU";
     }
     
     public String decode(String name) {
